@@ -1,1 +1,2 @@
-# ShoppingProject done in 2nd year in sdc lab
+# ShoppingProject done after learned Frontend
+# HTML,CSS & JS
