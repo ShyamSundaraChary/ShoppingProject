@@ -1,4 +1,4 @@
-# ShoppingProject
+# Shopping-Project
 
 A comprehensive frontend shopping website built with HTML, CSS, and JavaScript. This project demonstrates modern web development skills including responsive design, user authentication, and interactive shopping cart functionality.
 
@@ -56,12 +56,12 @@ This project was developed as a learning exercise in frontend development, cover
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ShyamSundaraChary/ShoppingProject.git
+git clone https://github.com/ShyamSundaraChary/Shopping-Project.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd ShoppingProject
+cd Shopping-Project
 ```
 
 3. Open `index.html` in your web browser or use a local server:
