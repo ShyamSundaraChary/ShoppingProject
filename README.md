@@ -14,7 +14,7 @@ A comprehensive frontend shopping website built with HTML, CSS, and JavaScript. 
 ## 📁 Project Structure
 
 ```
-ShoppingProject/
+Shopping-Project/
 ├── assets/
 │   └── images/          # Product images and UI assets
 ├── script/              # JavaScript files
